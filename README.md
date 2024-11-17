@@ -2,13 +2,14 @@
 <h3 align="center">I am a student majoring in Information Systems who has an interest in frontend development and game development. I continue to learn and try to hone my coding skills.</h3>
 
 
+<h3>Play my project game</h3>
+<p align="left"><a href="https://tezkyverse.itch.io/" target="_blank">
+    <i class="fa-brands fa-itch-io"></i>
+  </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dzkrri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzkrri_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Tezkikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tezki" height="30" width="40" /></a>
-   <a href="https://tezkyverse.itch.io/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/itchio.svg" alt="itch.io" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
