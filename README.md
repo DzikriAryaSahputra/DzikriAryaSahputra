@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
 <h3 align="center">I am a student majoring in Information Systems who has an interest in frontend development and game development. I continue to learn and try to hone my coding skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzikriaryasahputra&label=Profile%20views&color=0e75b6&style=flat" alt="dzikriaryasahputra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dzkrri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzkrri_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tezki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tezki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Tezki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tezki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzikriaryasahputra&show_icons=true&locale=en&layout=compact" alt="dzikriaryasahputra" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzikriaryasahputra&label=Profile%20views&color=0e75b6&style=flat" alt="dzikriaryasahputra" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzikriaryasahputra&show_icons=true&locale=en" alt="dzikriaryasahputra" /></p>
