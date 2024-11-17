@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
-<h3 align="center">I am a student majoring in Information Systems who has an interest in frontend development and game development. I continue to learn and try to hone my coding skills.</h3>
+<p align="center">I am a student majoring in Information Systems who has an interest in frontend development and game development. I continue to learn and try to hone my coding skills.</p>
 
 
 
