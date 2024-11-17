@@ -6,8 +6,7 @@
 <p align="left">
 <a href="https://instagram.com/dzkrri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzkrri_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Tezkikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tezki" height="30" width="40" /></a>
-</p><p align="left">
-  <a href="https://tezkyverse.itch.io/" target="_blank">
+   <a href="https://tezkyverse.itch.io/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/itchio.svg" alt="TezkyVerse" height="30" width="40" />
   </a>
 </p>
