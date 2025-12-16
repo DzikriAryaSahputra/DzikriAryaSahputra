@@ -2,15 +2,17 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
-<p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile app development and game development. I continue to learn and try to hone my coding skills.</p>
+<p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dzkrri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzkrri_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Tezkikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tezki" height="30" width="40" /></a>
 </p>
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -47,9 +49,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="languages graph"  />
 </div>
+
 ---
