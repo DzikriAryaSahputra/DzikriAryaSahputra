@@ -48,11 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzikriaryasahputra&show_icons=true&locale=en&layout=compact" alt="dzikriaryasahputra" /></p>
-## 📊 GitHub Stats:
-
+<hr>
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
