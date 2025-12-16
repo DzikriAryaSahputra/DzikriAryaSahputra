@@ -1,7 +1,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
 <p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile app development and game development. I continue to learn and try to hone my coding skills.</p>
 
@@ -53,8 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="languages graph"  />
@@ -65,5 +62,3 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=DzikriAryaSahputra&icon=0&color=0)](https://visitcount.itsvg.in)
