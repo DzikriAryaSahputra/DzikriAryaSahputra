@@ -51,7 +51,9 @@
 </div>
 
 ---
-![Profile views counter](https://komarev.com/ghpvc/?username=DzikriAryaSahputra&&style=flat-square)  
+<div align="center">
+![Profile views counter](https://komarev.com/ghpvc/?username=DzikriAryaSahputra&&style=flat-square)
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
