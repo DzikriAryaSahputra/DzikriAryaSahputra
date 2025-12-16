@@ -52,7 +52,7 @@
 
 ---
 <div align="center">
-![Profile views counter](https://komarev.com/ghpvc/?username=DzikriAryaSahputra&&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=DzikriAryaSahputra&&style=flat-square"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DzikriAryaSahputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
