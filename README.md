@@ -3,14 +3,14 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra  <img align="center" height="65" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  /></h1>
-<p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
+<h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra  <img align="center" height="60" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  /></h1>
+<p align="center">I am a student majoring in Information Systems who has an interest in website development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -85,9 +85,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/DzikriAryaSahputra/DzikriAryaSahputra/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ###
 
