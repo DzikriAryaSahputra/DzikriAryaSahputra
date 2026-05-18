@@ -92,5 +92,3 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/wxhwrp30VkgAAAAi/ayaya-club-ayaya.gif"  />
-<img align="right" height="150" src="https://media.tenor.com/wxhwrp30VkgAAAAi/ayaya-club-ayaya.gif"  />
