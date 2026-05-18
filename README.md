@@ -1,9 +1,13 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
 ###
-<img align="center" height="150" src="[https://media.tenor.com/j5rT3DlMYA4AAAAi/lain-anime.gif](https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif)"  />
+
+<img align="center" height="150" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  />
+
 ###
+
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
 <p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
 
