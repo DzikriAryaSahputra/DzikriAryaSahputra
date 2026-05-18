@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra  <img align="center" height="100" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  /></h1>
+<h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra  <img align="center" height="50" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  /></h1>
 <p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
 
 ---
