@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="450" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  />
+<img align="center" height="100" src="https://media1.tenor.com/m/cQ-2owQdFcMAAAAd/black.gif"  />
 
 ###
 
