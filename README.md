@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Dzikri Arya Sahputra</h1>
 <p align="center">I am a student majoring in Information Systems who has an interest in frontend development, mobile development and game development. I continue to learn and try to hone my coding skills.</p>
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
 
 ---
 <div align="center">
